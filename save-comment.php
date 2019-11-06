@@ -56,7 +56,6 @@ if (!$author || !$article_id || !$content) {
  * 
  * PS : Ca fait pas genre 3 fois qu'on écrit ces lignes pour se connecter ?! 
  */
-$pdo = getPdo();
 
 $article = findArticle($article_id);
 // Si rien n'est revenu, on fait une erreur
