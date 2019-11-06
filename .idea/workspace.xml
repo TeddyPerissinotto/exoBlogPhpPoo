@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d54734eb-3f07-49c7-a5df-e123dd50ccad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/libraries/models/Article.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/libraries/models/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libraries/models/Model.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article.php" beforeDir="false" afterPath="$PROJECT_DIR$/article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete-article.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete-article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete-comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete-comment.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libraries/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/models/Article.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/models/Article.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/models/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/models/Comment.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/save-comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/save-comment.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,8 +65,16 @@
       <option name="presentableId" value="Default" />
       <updated>1572967814256</updated>
       <workItem from="1572967815590" duration="6884000" />
-      <workItem from="1573031135346" duration="6208000" />
+      <workItem from="1573031135346" duration="10304000" />
     </task>
+    <task id="LOCAL-00001" summary="06/11/19">
+      <created>1573040646124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573040646124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="06/11/19" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/11/19" />
   </component>
 </project>
