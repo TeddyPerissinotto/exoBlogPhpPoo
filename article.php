@@ -58,3 +58,10 @@ render('articles/show', compact('pageTitle', 'article', 'commentaires', 'article
 //  'commentaires' => $commentaires,
 //  'articles_id'  => $article_id
 //]
+
+
+
+
+
+
+
